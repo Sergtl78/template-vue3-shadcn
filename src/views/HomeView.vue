@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button'
 </script>
 
 <template>
-  <main class="container bg-red-500">
+  <main class="container">
     This is Home page
     <Button>Click</Button>
   </main>
